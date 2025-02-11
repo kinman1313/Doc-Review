@@ -6,5 +6,5 @@ Flask-JWT-Extended==4.3.1
 gunicorn
 doctr==1.9.0
 torch==2.6.0
-transformers==4.5.1
+transformers==4.48.0
 Werkzeug==2.0.1
